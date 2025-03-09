@@ -6,3 +6,8 @@
 
 // import dotenv from "dotenv"
 // dotenv.config()
+
+// git status
+// git add .
+// git commit -m "hehe"
+// git push -u origin main
