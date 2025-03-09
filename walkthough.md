@@ -11,3 +11,8 @@
 // git add .
 // git commit -m "hehe"
 // git push -u origin main
+
+
+
+// after all the backend stuff
+// in the frontent npm i react-router-dom and then wrap the app within it <BrowserRouter>
